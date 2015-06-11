@@ -1,0 +1,44 @@
+h1 {
+	text-align: center;
+	font-weight: bolder;
+	font-size: x-large;
+}
+
+h3 {
+	font-size: medium;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+i {
+    font-style: italic;
+} 
+
+code {
+	color: #660066;
+	font-style: italic;
+	font-size: small;
+	font-family: Arial;
+}
+
+
+.bodySet {
+	font-family: 'Nobile', Helvetica, Arial, sans-serif;
+	background-color: black;
+}
+
+.pageWrap {
+	background-color: #FFB84D;
+	text-indent: 15px;
+	border-radius: 15px;
+	padding:5px;
+	margin:5px;
+}
+
+.bodyNotes {
+	background-color: #9BB4E6;
+	text-indent: 0px;
+	border-radius: 15px;
+	padding:10px;
+	margin:5px;
+	font-size:small;
